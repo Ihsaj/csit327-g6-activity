@@ -3,4 +3,4 @@
 - Section: G6
 - Favorite Language: Python
 - One Git Tip Learned: Use 'Git Branch' often.
-- GitHub: @Uffyoswa 
+- GitHub: @Ihsaj
